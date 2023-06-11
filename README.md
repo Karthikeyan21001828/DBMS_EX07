@@ -1,4 +1,4 @@
-# Exp-6 Aggregate function in SQL.
+# Exp 7 Aggregate function in SQL.
 ## AIM:
 To write a sql query to perform Aggregate function in SQL.
 ## PROCEDURE:
