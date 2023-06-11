@@ -3,11 +3,11 @@
 To write a sql query to perform Aggregate function in SQL.
 ## PROCEDURE:
 ### STEP 1:
-create database SET_OPERATION.
+create database AGGREGATE_FUNCTION.
 ### STEP 2:
-create table A,B.
+create table DETAILS with ID and value.
 ### STEP 3:
-Insert Value to the tables.
+Insert Value to the table DETAILS.
 ### STEP 4:
 Perform Aggregate functions like SUM(),COUNT(),AVG().
 ## PROGRAM:
